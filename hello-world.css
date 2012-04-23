@@ -1,0 +1,174 @@
+body{
+    font-family: 'Lucida Console', Monaco, monospace;
+}
+
+.viewport { 
+    background-image:url('game-bg.png');;
+
+}
+
+.frameEnd
+{
+    background-image:url('frame-end.png');;
+}
+.frame0
+{
+    background-image:url('frame-0.png');;
+}
+.frame1 { 
+    background-image:url('frame-1.png');;
+}
+
+.frame2 { 
+    background-image:url('frame-2.png');;
+}
+
+.frame3 { 
+    background-image:url('frame-3.png');;
+}
+.frame4 { 
+    background-image:url('frame-4.png');;
+}
+
+
+.game { 
+    background-image:url('bg-test.png');;
+}
+
+.world { 
+    background-image:url('world.png');;
+}
+
+.shootArea
+{
+    /*background-image:url('shootCircle.png');;*/
+    border-spacing:5px 5px;
+}
+
+.laserShoot_2
+{
+    border:#00BEFF 1px solid;
+}
+.laserShoot_1
+{
+    border:#850000 1px solid;
+}
+.laserShoot_3
+{
+    border:#FF007D 1px solid;
+}
+
+.messageBox
+{
+    background-image:url('message.png');;
+}
+
+.alien1
+{
+    background-image:url('alien-1.png') ;
+    background-repeat: no-repeat;
+}
+
+.reset_Btn
+{
+    background-color: rgb(255,0,0);
+    color:000;
+    font-size:30px;
+    padding:10px;
+}
+
+.alienBase
+{
+    background-image:url('alien-base.png') ;
+    background-repeat: no-repeat;
+}
+
+.zombie1
+{
+    background-image:url('zombie-1.png') ;
+    background-repeat: no-repeat;
+}
+
+.wpn1
+{
+    background-image:url('weaponIcon1.png') ;
+    background-repeat: no-repeat;
+}
+
+.wpn2
+{
+    background-image:url('weaponIcon2.png') ;
+    background-repeat: no-repeat;
+}
+
+.wpn3
+{
+    background-image:url('weaponIcon3.png') ;
+    background-repeat: no-repeat;
+}
+
+
+.wpnOn
+{
+    background-image:url('yes-used.png') ;
+    background-repeat: no-repeat;
+}
+
+.wpnOff
+{
+    background-image:url('not-used.png') ;
+    background-repeat: no-repeat;
+}
+.level_stats
+{
+    color:#fff;
+    background-position: 0 6px;
+    /*background-image:url('alien-1.png') ;*/
+    background-repeat: no-repeat;
+    
+}
+
+.inst
+{
+    color:#fff;
+    background-position: 0 6px;
+    /*background-image:url('alien-1.png') ;*/
+    background-repeat: no-repeat;
+    
+}
+
+.inst_2
+{
+    color:#999;
+    background-position: 0 6px;
+    /*background-image:url('alien-1.png') ;*/
+    background-repeat: no-repeat;
+    
+}
+
+.hs_stats
+{
+    color:#fff;
+    background-position: 0 6px;
+    /*background-image:url('alien-1.png') ;*/
+    background-repeat: no-repeat;
+    
+}
+
+.ene_stats
+{
+    color:#fff;
+    background-position: 0 6px;
+    background-image:url('alien-1.png') ;
+    background-repeat: no-repeat;
+    
+}
+
+.my_stats
+{
+    color:#fff;
+    background-position: 0 6px;
+    background-image:url('zombie-1.png') ;
+    background-repeat: no-repeat;
+    
+}

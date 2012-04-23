@@ -1,0 +1,17 @@
+Features:
+ ✓ Agregar que cuente cuantos de los que necesitas ya tienes [TODO]
+ ✓ Agregar tipos de laser (matar, convertir, destruir) [TODO]
+ ✓ Agregar bases de donde salen los enemigos
+ ✓ Agregar bases de donde disparan los enemigos (disparan esferas y te conviertes) ?
+ ✓ Bill.soft
+ ✓ Arreglar el movimiento en los bordes
+ ✓ Agregar render de las areas donde buscan los monitos
+ ✓ Agregar iconos de la cantidad de aliens y de zombies que hay
+ ✓ Make the instructions
+ ✓ Agregar monstar nivel y highscores
+ ✓ Hacer sistema para poner mapas
+ ✓ Agregar un boton de reset
+ ✓ Pasar de nivel
+ ✓ Maximo nivel = game cleared
+ ✓ Minify javascript
+ ✓ Hacer mas niveles
